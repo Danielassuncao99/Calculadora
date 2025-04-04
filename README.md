@@ -31,6 +31,7 @@ Exibição do resultado diretamente no visor.
 
 como executar o projeto
 Abra o arquivo index.html no seu navegador.
+link: https://danielassuncao99.github.io/Calculadora/
 
 📷 Captura de Tela
 ![Captura de tela 2025-04-04 165432](https://github.com/user-attachments/assets/af0eadf4-6b19-47a4-bc2e-5b52e65d5653)
